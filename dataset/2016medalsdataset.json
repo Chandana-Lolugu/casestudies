@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "2016_Medals.csv",
 				"container": "source"
 			},
 			"columnDelimiter": ",",
